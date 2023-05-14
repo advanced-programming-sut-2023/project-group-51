@@ -45,9 +45,10 @@ assignees: Arman17Babaei
 
 ## تسک‌های نفر اول
 
-  **نام و نام خانوادگی:**
+  **نام و نام خانوادگی: محمد عصاره
 <details>
-  <summary>تسک مربوطه</summary>
+  <summary>
+  ثبت نام کاربر</summary>
 
   <div dir="ltr" align='right'>
 
